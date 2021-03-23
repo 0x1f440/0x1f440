@@ -1,6 +1,6 @@
-## 🎵 Now Playing... !!!!!!! 🎵
+## 🎵 Now Playing... idontwannabeyouanymore 🎵
 
-[<img align="left" width="110" height="110" src="https://i.scdn.co/image/ab67616d0000485150a3147b4edd7701a876c6ce">](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh)
+[<img align="left" width="110" height="110" src="https://i.scdn.co/image/ab67616d00004851a9f6c04ba168640b48aa5795">](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU)
 **Title**: {CURRENT_PLAYING_NAME}
 
 **Artist**: 
@@ -10,7 +10,7 @@
 <br>
 
 #### ✨ Playing on Spotify
-#### ✨ Last updated at 03/23/2021 18:45
+#### ✨ Last updated at 03/23/2021 18:46
 #### ✨ Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
 

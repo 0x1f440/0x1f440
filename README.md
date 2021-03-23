@@ -1,6 +1,6 @@
-## 🎵 Now Playing... idontwannabeyouanymore 🎵
+## 🎵 Now Playing... bellyache 🎵
 
-[<img align="left" width="110" height="110" src="https://i.scdn.co/image/ab67616d00004851a9f6c04ba168640b48aa5795">](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU)
+[<img align="left" width="110" height="110" src="https://i.scdn.co/image/ab67616d000048514adbeb26299adca766cec2c5">](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl)
 **Title**: {CURRENT_PLAYING_NAME}
 
 **Artist**: 

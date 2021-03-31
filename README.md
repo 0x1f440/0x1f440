@@ -1,15 +1,15 @@
 ## 🎵 Now Playing on Spotify... 🎵
 
-[<img align="left" width="110" height="110" src="https://i.scdn.co/image/ab67616d000048513d543b0dfe18c4bae839de3b">](https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW)
-**Title**: Lover Is a Day
+[<img align="left" width="110" height="110" src="https://i.scdn.co/image/ab67616d00004851bd7b5cbddfad10e65752c7c5">](https://open.spotify.com/album/5Cv3eMHrViSlD1zwy52aNM)
+**Title**: Holding Your Hand
 
-**Artist**: 
+**Artist**: Yung Bae atlas
 
 **Albums**: Not supported
 
 <br>
 
-#### ✨ Last updated at 03/24/2021 23:09
+#### ✨ Last updated at 03/31/2021 13:00
 #### ✨ Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
 

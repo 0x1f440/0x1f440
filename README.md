@@ -1,13 +1,13 @@
 ## 🎵 Now Playing on YouTube... 🎵
 
 [<img align="left" width="80" height="80" src="">](https://www.youtube.com/channel/UCFYMDSW-BzeYZKFSxROw3Rg)
-**Title**: Spooky's Jump Scare Mansion Song (1000 Doors)- The Living Tombstone -feat. BSlick & Crusher-P
+**Title**: Cut the Cord- Original Song and Music Video- The Living Tombstone ft. EileMonty
 
 **Artist**: The Living Tombstone
 
 <br>
 
-#### ✨ Last updated at 06/02/2021 13:09
+#### ✨ Last updated at 06/02/2021 13:12
 #### ✨ Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
 
